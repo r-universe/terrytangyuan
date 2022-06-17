@@ -1,0 +1,18 @@
+[
+  {
+    "package": "autoplotly",
+    "oncran": true
+  },
+  {
+    "package": "dml",
+    "oncran": true
+  },
+  {
+    "package": "lfda",
+    "oncran": true
+  },
+  {
+    "package": "scaffolder",
+    "oncran": true
+  }
+]
