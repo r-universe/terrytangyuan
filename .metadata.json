@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "dml",
-    "oncran": true
-  },
-  {
     "package": "lfda",
     "oncran": true
   },
