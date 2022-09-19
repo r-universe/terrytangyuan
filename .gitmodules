@@ -8,6 +8,11 @@
 	url = https://github.com/terrytangyuan/autoplotly
 	shallow = true
 	registered = true
+[submodule "dml"]
+	path = dml
+	url = https://github.com/terrytangyuan/dml
+	shallow = true
+	registered = true
 [submodule "lfda"]
 	path = lfda
 	url = https://github.com/terrytangyuan/lfda
