@@ -1,9 +1,5 @@
 [
   {
-    "package": "scaffolder",
-    "oncran": true
-  },
-  {
     "package": "autoplotly",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "lfda",
+    "oncran": true
+  },
+  {
+    "package": "scaffolder",
     "oncran": true
   }
 ]

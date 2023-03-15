@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scaffolder"]
-	path = scaffolder
-	url = https://github.com/terrytangyuan/scaffolder
-	shallow = true
-	registered = true
 [submodule "autoplotly"]
 	path = autoplotly
 	url = https://github.com/terrytangyuan/autoplotly
@@ -21,5 +16,10 @@
 [submodule "lfda"]
 	path = lfda
 	url = https://github.com/terrytangyuan/lfda
+	shallow = true
+	registered = true
+[submodule "scaffolder"]
+	path = scaffolder
+	url = https://github.com/terrytangyuan/scaffolder
 	shallow = true
 	registered = true
