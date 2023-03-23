@@ -23,3 +23,8 @@
 	url = https://github.com/terrytangyuan/scaffolder
 	shallow = true
 	registered = true
+[submodule "tfio"]
+	path = tfio
+	url = https://github.com/cran/tfio
+	shallow = true
+	registered = true
