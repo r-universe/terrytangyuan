@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "autoplotly"]
 	path = autoplotly
 	url = https://github.com/terrytangyuan/autoplotly
-	shallow = true
-	registered = true
 [submodule "dml"]
 	path = dml
 	url = https://github.com/terrytangyuan/dml
-	shallow = true
-	registered = true
 [submodule "lfda"]
 	path = lfda
 	url = https://github.com/terrytangyuan/lfda
-	shallow = true
-	registered = true
 [submodule "scaffolder"]
 	path = scaffolder
 	url = https://github.com/terrytangyuan/scaffolder
-	shallow = true
-	registered = true
 [submodule "tfio"]
 	path = tfio
 	url = https://github.com/cran/tfio
-	shallow = true
-	registered = true
