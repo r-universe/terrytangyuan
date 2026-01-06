@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autoplotly"]
-	path = autoplotly
-	url = https://github.com/terrytangyuan/autoplotly
 [submodule "dml"]
 	path = dml
 	url = https://github.com/terrytangyuan/dml
